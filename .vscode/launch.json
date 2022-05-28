@@ -10,6 +10,7 @@
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
+            "setupCommands": [ { "text": "-enable-pretty-printing" } ],
             "linux": {
                 "MIMode": "gdb",
                 "miDebuggerPath": "gdb",
