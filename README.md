@@ -1,8 +1,6 @@
 # WF-Logs-Parser
 This parser uses data provided by DE to show you some neat stats about your trades.
 
-Example sheet
-
 ![preview](https://i.imgur.com/kexHi1x.png)
 ![preview2](https://i.imgur.com/aThRDVd.png)
 
