@@ -34,7 +34,7 @@ You can do whatever you want with it, but I've included a nice spreadsheet that 
 How to get it working:
 1. Import provided TradeStats.xlsx file into selected spreadsheet app (I personally use and prefer [Google Sheets](https://www.google.com/sheets/about/))
 2. Import your ParsedTrades.csv file into your freshly created worksheet (make sure the sheet name stays the same as filename, "ParsedTrades")
-3. To refresh everything, do this "Find and Repalce" (yes, it does nothing, but it refreshes all formulas to account for your freshly imported "ParsedTrades" Sheet). It also might take extra few seconds depending on how many trades you have there.
+3. To refresh everything, do following "Find and Repalce" (yes, it does nothing, but it refreshes all formulas to account for your freshly imported "ParsedTrades" Sheet). It also might take extra few seconds depending on how many trades you have there.
 
 ![FindAndReplace](https://i.imgur.com/2w9qfM9.png)
 
