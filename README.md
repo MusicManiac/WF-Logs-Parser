@@ -41,7 +41,7 @@ How to get it working:
 4. You are free to tinker with any and all data you have available
 
 # Legal stuff
-Code is written under [GNU V3](LICENSE.MD)
+Code is written under [GNU GPL V3](LICENSE.MD)
 
 # ToDo
 - GUI, maybe? No real need for it but probably will look pretty.
