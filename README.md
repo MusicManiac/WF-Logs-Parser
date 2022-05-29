@@ -3,7 +3,7 @@ This parser uses data provided by DE to show you some neat stats about your trad
 
 Example sheet
 
-![preview](https://i.imgur.com/fA6QdDH.png)
+![preview](https://i.imgur.com/kexHi1x.png)
 ![preview2](https://i.imgur.com/aThRDVd.png)
 
 Following data is available for each trade you made:
