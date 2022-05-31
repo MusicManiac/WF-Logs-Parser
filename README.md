@@ -45,6 +45,7 @@ Code is written under [GNU GPL V3](LICENSE.md)
 
 # ToDo
 - GUI, maybe? No real need for it but probably will look pretty.
+- More .csv data for different things that can be found in files
 
 # Bugs and stuff
 I have 3k of my own trades of various different items, and it kinda looks like I was able to catch all cases, but in case I missed something, feel free to open a ticket. I will need part of your trade file attached to find a problem though. If you do attach it, make sure to remove all information *before* trades part (Ctrl+F for "TRADED ITEMS GIVEN :" and delete everything that's before 1st trade)
