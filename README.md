@@ -23,11 +23,12 @@ Which makes it possible to get all kind of interesting (at least, for me) data a
     - Select subcategory "CCPA or GDPR - General Data Protection Regulation"
     - Write something in Subject and Description fields
     - Wait 1+ days
-2. After you get your .txt files, place them in same directory where .exe is
-3. Run the .exe (get it in [Releases](https://github.com/MusicManiac/WF-Logs-Parser/releases))
-4. Paste name of the file you got, it looks something like "1234567_Nickname101_GDPR_Trades_Warframe.txt"
+2. Unpack archive in some new folder.
+3. After you get your .txt files, place them in same directory where .exe is
+4. Run the .exe (get it in [Releases](https://github.com/MusicManiac/WF-Logs-Parser/releases))
+5. Paste name of the file you got, it looks something like "1234567_Nickname101_GDPR_Trades_Warframe.txt"
     - You are free to rename file you got to something like "a.txt" to make process easier, I guess?
-5. Program will parse through the file you provided, and generate [.csv file](https://en.wikipedia.org/wiki/Comma-separated_values)
+6. Program will parse through the file you provided, and generate [.csv file](https://en.wikipedia.org/wiki/Comma-separated_values)
 
 # What to do with received ParsedTrades.csv file
 You can do whatever you want with it, but I've included a nice spreadsheet that you can use to get results like on picture provided at the start.
